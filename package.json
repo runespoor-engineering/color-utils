@@ -1,7 +1,7 @@
 {
-	"name": "@runespoorstack/{lib-name}",
-	"version": "0.0.0",
-	"description": "",
+	"name": "@runespoorstack/color-utils",
+	"version": "0.7.3",
+	"description": "Everything you need to work with colors in JavaScript and TypeScript.",
 	"main": "dist/index.js",
 	"module": "dist/index.mjs",
 	"types": "dist/index.d.ts",
@@ -23,8 +23,7 @@
 		"changelog:apply": "rune apply",
 		"unimported": "pnpm dlx unimported"
 	},
-	"dependencies": {
-	},
+	"dependencies": {},
 	"devDependencies": {
 		"@biomejs/biome": "2.1.1",
 		"@runespoorstack/changelog-manager": "0.9.3",
@@ -37,13 +36,13 @@
 		"typescript": "5.4.5",
 		"vitest": "3.2.4"
 	},
-	"homepage": "https://github.com/runespoor-engineering/{repo-name}/#readme",
+	"homepage": "https://github.com/runespoor-engineering/color-utils/#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/runespoor-engineering/{repo-name}"
+		"url": "git+https://github.com/runespoor-engineering/color-utils"
 	},
 	"bugs": {
-		"url": "https://github.com/runespoor-engineering/{repo-name}/issues"
+		"url": "https://github.com/runespoor-engineering/color-utils/issues"
 	},
 	"author": {
 		"name": "BorysShulyak",
